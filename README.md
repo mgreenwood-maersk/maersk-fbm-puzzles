@@ -11,7 +11,8 @@ below and submitting your solution. Check out some helpful tips to kickstart you
 * Please use C# or Java to develop your solution, do not use extraneous frameworks in order to solve the problem, your solution should be constrained to your own implementation.
 * The implementation should use OOP/SOLID principals.
 * Please write your code as 'production ready'
-* In your email, along with your source code, please include your program's final answer; a brief (1-2 paragraph) description of your approach and any trade-offs you made
+* In your email, along with a link to a GitHub/BitBucket or other repo with your source code.
+* Please include your program's final answer; a brief (1-2 paragraph) description of your approach and any trade-offs you made
 (say, for generality, speed, or ease of implementation); and instructions on how to test your program.
 * Please send your puzzle answer and resume to [MaerskSoftEngAssessments@maersk.com](mailto:MaerskSoftEngAssessments@maersk.com)
 
