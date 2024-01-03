@@ -14,7 +14,8 @@ below and submitting your solution. Check out some helpful tips to kickstart you
 * In your email, along with a link to a GitHub/BitBucket or other repo with your source code.
 * Please include your program's final answer; a brief (1-2 paragraph) description of your approach and any trade-offs you made
 (say, for generality, speed, or ease of implementation); and instructions on how to test your program.
-* Please send your puzzle answer and resume to [MaerskSoftEngAssessments@maersk.com](mailto:MaerskSoftEngAssessments@maersk.com)
+* Please send your puzzle answer and resume to [MaerskSoftEngAssessments@maersk.com](mailto:MaerskSoftEngAssessments@maersk.com) as a link to your own github repository.
+Do not attempt to fork this repository as forking is disabled.
 
 Puzzle answers will be reviewed only for individuals submitting job applications.
 No pseudo-code - pseudo-code will be rejected!
